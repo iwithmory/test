@@ -1,7 +1,7 @@
 To Do List:
 
-[] Do something
+- [x] Do something
 
-[] Do something else
+- [x] Do something else
 
 *(note: created from template at https://github.com/iwithmory/test/blob/master/test.md)*
